@@ -44,6 +44,7 @@
 
 #### Week 46
 
+* [Sat 18 Nov 2017](links-to-read/daily-log/2017-11/171113/links-sat-171118.md)
 * [Fri 17 Nov 2017](links-to-read/daily-log/2017-11/171113/links-fri-171117.md)
 * [Thu 16 Nov 2017](links-to-read/daily-log/2017-11/171113/links-thu-171116.md)
 * [Wed 15 Nov 2017](links-to-read/daily-log/2017-11/171113/links-wed-171115.md)
