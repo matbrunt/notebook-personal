@@ -1,5 +1,7 @@
 # Tue 14 Nov 2017
 
+## Links
+
 [Engineering more reliable transportation with ML and AI at Uber](https://eng.uber.com/machine-learning/)
 
 [TensorFlow for Poets](https://petewarden.com/2016/02/28/tensorflow-for-poets/)

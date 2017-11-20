@@ -1,5 +1,7 @@
 # Tue 10 Oct 2017
 
+## Links
+
 [Animating Paths and Arcs With d3.js](http://www.thesoftwaresimpleton.com/blog/2016/06/12/animate-path-arc/)
 
 [SVG Paths and D3.js](https://www.dashingd3js.com/svg-paths-and-d3js)
@@ -16,7 +18,7 @@
 
 [D3 - how to manipulate elements using selections](https://bost.ocks.org/mike/circles/)
 
-## AWS EMR Links to read
+### AWS EMR Links to read
 
 [Amazon EMR Actions in User-Based IAM Policies](http://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-set-iam-policy.html)
 

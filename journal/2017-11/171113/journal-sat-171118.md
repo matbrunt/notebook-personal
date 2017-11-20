@@ -1,6 +1,8 @@
 # Sat 18 Nov 2017
 
-## Data analysis
+## Links
+
+### Data analysis
 
 [Kaggle: Otto Group product classification challenge, 1st place winners solution](https://www.kaggle.com/c/otto-group-product-classification-challenge/discussion/14335)
 
@@ -8,7 +10,7 @@
 
 [Kaggle: Bike Sharing Demand in Washington DC, historical usage patterns with weather data](https://www.kaggle.com/c/bike-sharing-demand)
 
-## Machine learning
+### Machine learning
 
 [Deep learning with neural networks and TensorFlow](https://www.youtube.com/watch?v=oYbVFhK_olY)
 
@@ -24,11 +26,11 @@
 
 [Inference blog: posts on machine learning and statistics](http://www.inference.vc/)
 
-## Business
+### Business
 
 [Boosting sales with machine learning](https://medium.com/xeneta/boosting-sales-with-machine-learning-fbcf2e618be3)
 
-## Adhoc
+### Adhoc
 
 [Turn your RaspberryPi into a homemade Google Home](https://becominghuman.ai/turn-your-raspberry-pi-into-homemade-google-home-9e29ad220075)
 

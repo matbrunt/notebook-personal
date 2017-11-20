@@ -1,5 +1,7 @@
 # Mon 02 Oct 2017
 
+## Links
+
 [Morning Paper: TFX: A TensorFlow-based production scale machine learning platform](https://blog.acolyer.org/2017/10/03/tfx-a-tensorflow-based-production-scale-machine-learning-platform/)
 
 [Notes on the numerics of GANs](http://www.inference.vc/my-notes-on-the-numerics-of-gans/)
@@ -16,13 +18,13 @@
 
 [Non-technical notes on churn analysis](http://alexminnaar.com/my-experience-with-churn-analysis.html)
 
-## Apache Spark
+### Apache Spark
 
 [Apache Spark in Python: Beginner's Guide](https://www.datacamp.com/community/tutorials/apache-spark-python)
 
 [Apache Spark Tutorial: ML with PySpark](https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learning)
 
-### PySpark Cheat Sheets
+#### PySpark Cheat Sheets
 
 [PySpark Basics cheat sheet](https://www.datacamp.com/community/blog/pyspark-cheat-sheet-python)
 

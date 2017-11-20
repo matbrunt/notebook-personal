@@ -1,5 +1,7 @@
 # Thu 09 Nov 2017
 
+## Links
+
 [Solving Sudoku with Python](http://norvig.com/sudoku.html)
 
 [Fleet analytics using vehicle sensors as a data product](https://siliconangle.com/blog/2017/10/20/fleet-analytics-provider-spins-vehicle-sensor-data-productivity-gold/)
@@ -8,13 +10,13 @@
 
 [How to build a data science team](https://www.digitaldoughnut.com/articles/2017/february/how-to-build-a-data-science-team)
 
-## Crunch conference
+### Crunch conference
 
 http://crunchconf.com/2016/
 
 http://crunchconf.com/2015/
 
-## Silicon Valley Data Science
+### Silicon Valley Data Science
 
 [The data value chain](https://svds.com/discovery_material/2441/)
 
@@ -24,7 +26,7 @@ http://crunchconf.com/2015/
 
 [Data engineering: how to select the right tools, where spark fits in, and the benefits of offline processing](https://svds.com/discovery_material/interview-data-engineering/)
 
-## Practical guide to building a data analytics platform
+### Practical guide to building a data analytics platform
 
 [Introduction](https://www.linkedin.com/pulse/practical-guide-building-analytics-platform-james-lupton/)
 
@@ -38,7 +40,7 @@ http://crunchconf.com/2015/
 
 [Dos and Donts of data ingestion](https://www.linkedin.com/pulse/practical-guide-building-analytics-platform-dos-donts-james-lupton/)
 
-## Guide to building a streaming platform with Kafka
+### Guide to building a streaming platform with Kafka
 
 From the co-creator of Kafka.
 

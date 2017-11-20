@@ -1,6 +1,8 @@
 # Thu 26 Oct 2017
 
-## Role of a Data Scientist
+## Links
+
+### Role of a Data Scientist
 
 [Data Scientist - Commando, Infantry or Police](http://mybench.co.uk/the-role-of-a-data-scientist-commandos-infantry-and-police-2/)
 

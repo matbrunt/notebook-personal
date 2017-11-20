@@ -1,6 +1,8 @@
 # Wed 01 Nov 2017
 
-## D3 links
+## Links
+
+### D3 links
 
 [D3 force layout](https://www.placeiq.com/2017/08/pointsofinterestd3forcelayout/)
 

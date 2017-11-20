@@ -1,5 +1,7 @@
 # Tue 31 Oct 2017
 
+## Links
+
 [Scatter plot with tooltips](https://mpld3.github.io/examples/scatter_tooltip.html)
 
 [Intro to Bokeh - scatter plot with tooltips](http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2015/tutorials/r1_intro_to_bokeh.html#Specifying-tools)

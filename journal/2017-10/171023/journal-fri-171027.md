@@ -1,5 +1,7 @@
 # Fri 27 Oct 2017
 
+## Links
+
 [Modern Pandas - Timeseries](https://tomaugspurger.github.io/modern-7-timeseries)
 
 [Python data science handbook - Principal Component Analysis](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb)

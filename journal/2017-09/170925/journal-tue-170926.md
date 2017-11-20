@@ -1,5 +1,7 @@
 # Tue 26 Sep 2017
 
+## Links
+
 [Machine Learning is Fun - 8 part series](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
 [Simple reinforcement learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)

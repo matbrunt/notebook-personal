@@ -1,5 +1,7 @@
 # Wed 11 Oct 2017
 
+## Links
+
 [Luminoth](https://github.com/tryolabs/luminoth): open source toolkit for computer vision, in Python using TensorFlow and Sonnet.
 
 [Regression analysis using Python](http://www.turingfinance.com/regression-analysis-using-python-statsmodels-and-quandl/)

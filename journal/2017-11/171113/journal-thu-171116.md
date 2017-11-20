@@ -1,5 +1,7 @@
 # Thu 16 Nov 2017
 
+## Links
+
 [AlphaGo, in context](https://medium.com/@karpathy/alphago-in-context-c47718cb95a5)
 
 [10 statistical techniques data scientists need to master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)

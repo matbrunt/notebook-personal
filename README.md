@@ -12,7 +12,7 @@ Recently a colleague asked me a question that I knew I had read a good article o
 
 Going back through old journals I realised that keeping track of what I have read, and what I want to read is proving increasingly difficult.
 
-So the intention is to store all links here, rapid logging them to a daily log so I don't need to keep them in my head, then organising the article themes into collections and writing a quick summary as I read them if I feel they are worth retaining.
+So the intention is to store all links here, rapid logging them in a daily log so I don't need to keep them in my head, then organising the article themes into collections and writing a quick summary as I read them if I feel they are worth retaining.
 
 This section is purely for me to capture links, it has virtually no curation and is not intended to be 'pretty', rather a raw unfiltered capture of links.
 

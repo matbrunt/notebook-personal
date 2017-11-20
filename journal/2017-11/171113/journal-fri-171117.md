@@ -1,14 +1,16 @@
 # Fri 17 Nov 2017
 
-## Machine Learning
+## Links
+
+### Machine Learning
 
 [10 breakthrough technologies: Reinforcement learning](https://www.technologyreview.com/s/603501/10-breakthrough-technologies-2017-reinforcement-learning/)
 
-## Data Analysis
+### Data Analysis
 
 [Stop misusing P-values](http://fivethirtyeight.com/features/statisticians-found-one-thing-they-can-agree-on-its-time-to-stop-misusing-p-values/)
 
-## Data Science
+### Data Science
 
 [100+ free data science books](http://www.learndatasci.com/free-data-science-books/)
 
@@ -18,7 +20,7 @@
 
 [9 Mistakes to Avoid When Starting Your Career in Data Science](https://elitedatascience.com/beginner-mistakes)
 
-### Time Series Forecasting
+#### Time Series Forecasting
 
 [Time series forecasting at Google](http://www.unofficialgoogledatascience.com/2017/04/our-quest-for-robust-time-series.html)
 
@@ -30,17 +32,17 @@
 
 [Stitchfix: Sorry ARIMA, I'm going Bayesian (Facebook's Prophet uses a similar bayesian approach)](http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)
 
-### Facebooks Prophet
+#### Facebooks Prophet
 
 [Facebook Prophet](https://github.com/facebookincubator/prophet)
 
 [Prophet paper (pdf)](https://facebookincubator.github.io/prophet/static/prophet_paper_20170113.pdf)
 
-## Data Visualisation
+### Data Visualisation
 
 [Python Graph Gallery: examples of common plots in Python](https://python-graph-gallery.com/)
 
-## Pandas
+### Pandas
 
 [Pandas documentation tutorials page](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 
@@ -50,16 +52,16 @@
 
 ['Modern pandas' - a guide to writing idiomatic pandas code](https://tomaugspurger.github.io/modern-1.html)
 
-## Data Analysis
+### Data Analysis
 
 [DataCamp: Jupyter notebook tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.Za9VHZ8)
 
 [COANSYS (Content Analysis System): framework for mining scientific publications using Hadoop](https://github.com/CeON/CoAnSys)
 
-## Software Engineering
+### Software Engineering
 
 [Lean Big Data – how to avoid wasting money with big data technologies and get some ROI](http://getindata.com/lean-big-data-how-to-avoid-wasting-money-with-big-data-technologies-and-get-some-roi/)
 
-# Business
+## Business
 
 [The problems with the Net Promoter Score (NPS)](http://datawanderings.com/2017/06/16/ko-by-probability/)

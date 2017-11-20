@@ -1,5 +1,7 @@
 # Wed 25 Oct 2017
 
+## Links
+
 [Technical debt in machine learning](https://medium.com/towards-data-science/technical-debt-in-machine-learning-8b0fae938657)
 
 ### Seeing around corners with computer vision

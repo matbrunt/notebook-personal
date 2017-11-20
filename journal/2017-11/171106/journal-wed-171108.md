@@ -1,5 +1,7 @@
 # Wed 08 Nov 2017
 
+## Links
+
 [Data science myths](https://veekaybee.github.io/2017/06/19/data-science-myths/)
 
 [Podcast about how good data scientists come from all sorts of backgrounds](http://partiallyderivative.com/podcast/2017/05/30/dont-gatekeep-me-bro)

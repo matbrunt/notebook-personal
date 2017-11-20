@@ -1,5 +1,7 @@
 # Mon 16 Oct 2017
 
+## Links
+
 [Dynamic Time Warping with Python](http://alexminnaar.com/time-series-classification-and-clustering-with-python.html)
 
 [News recommendation engine driven by collaborative reader behavior](https://blog.insightdatascience.com/news4u-recommend-stories-based-on-collaborative-reader-behavior-9b049b6724c4)

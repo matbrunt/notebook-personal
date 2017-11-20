@@ -1,5 +1,7 @@
 # Tue 17 Oct 2017
 
+## Links
+
 [Spark Python programming guide](https://spark.apache.org/docs/0.9.0/python-programming-guide.html)
 
 [Spark 2.0.1 download](https://archive.apache.org/dist/spark/spark-2.0.1/)
@@ -8,7 +10,7 @@
 
 [Installing sbt on Linux](http://www.scala-sbt.org/1.x/docs/Installing-sbt-on-Linux.html)
 
-## PySpark
+### PySpark
 
 [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html)
 
@@ -24,7 +26,7 @@
 
 [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
 
-## Spark in Docker
+### Spark in Docker
 
 [pyspark-notebook](https://github.com/jupyter/docker-stacks/blob/master/pyspark-notebook/Dockerfile)
 
@@ -42,6 +44,6 @@ https://github.com/jaceklaskowski/docker-builds-sbt/blob/master/Dockerfile
 
 [Running Apache Spark standalone cluster on Docker](https://grzegorzgajda.gitbooks.io/spark-examples/content/basics/docker.html)
 
-## DS / Trading articles
+### DS / Trading articles
 
 [Linear algebra for deep learning - part 1](https://www.quantstart.com/articles/scalars-vectors-matrices-and-tensors-linear-algebra-for-deep-learning-part-1)

@@ -1,5 +1,7 @@
 # Mon 13 Nov 2017
 
+## Links
+
 [Breaking into machine learning](https://petewarden.com/2016/04/18/how-to-break-into-machine-learning/)
 
 [Why use Make](https://bost.ocks.org/mike/make/)

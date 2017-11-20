@@ -1,5 +1,7 @@
 # Fri 03 Nov 2017
 
+## Links
+
 [How to install packages through Pip into a Conda environment](http://www.puzzlr.org/install-packages-pip-conda-environment/) - write up in DS handbook
 
 [Python Data Science Handbook - Full Text](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -26,7 +28,7 @@
 
 [Practical Guide to Principal Component Analysis in R & Python](https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/)
 
-## Swizec - Freelance writing
+### Swizec - Freelance writing
 
 [Evolution of a freelancer](https://swizec.com/blog/the-evolution-of-a-freelancer-lessons-from-the-hallway-track-at-dyfconf/swizec/6734)
 
@@ -34,7 +36,7 @@
 
 [Sidehustling - React+D3v4 book](https://swizec.com/blog/9013-september-sidehustle-report-why-the-react-d3v4-launch/swizec/7837)
 
-## Gatsby - PWA static site generator in React
+### Gatsby - PWA static site generator in React
 
 [Gatsby](https://www.gatsbyjs.org/)
 

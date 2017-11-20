@@ -1,5 +1,7 @@
 # Wed 15 Nov 2017
 
+## Links
+
 [Apply a function to every row in Pandas](http://jonathansoma.com/lede/foundations/classes/pandas%20columns%20and%20functions/apply-a-function-to-every-row-in-a-pandas-dataframe/)
 
 [Open source datasets and ML workflows / analysis](http://www.openml.org)
