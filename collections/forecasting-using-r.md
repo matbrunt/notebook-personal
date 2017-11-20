@@ -1,0 +1,35 @@
+# Forecasting using R
+
+## Description
+
+Forecasting involves making predictions about the future. It is required in many situations such as deciding whether to build another power generation plant in the next ten years requires forecasts of future demand; scheduling staff in a call center next week requires forecasts of call volumes; stocking an inventory requires forecasts of stock requirements. Forecasts can be required several years in advance (for the case of capital investments), or only a few minutes beforehand (for telecommunication routing). Whatever the circumstances or time horizons involved, forecasting is an important aid to effective and efficient planning. 
+
+## Outline
+
+### Chapter 1: Exploring and Visualizing Time Series in R
+
+The first thing to do in any data analysis task is to plot the data. Graphs enable many features of the data to be visualized, including patterns, unusual observations, and changes over time. The features that are seen in plots of the data must then be incorporated, as far as possible, into the forecasting methods to be used.
+
+Chapter 2: Benchmark Methods and Forecast Accuracy
+
+In this chapter, you will learn general tools that are useful for many different forecasting situations. It will describe some methods for benchmark forecasting, methods for checking whether a forecasting method has adequately utilized the available information, and methods for measuring forecast accuracy. Each of the tools discussed in this chapter will be used repeatedly in subsequent chapters as you develop and explore a range of forecasting methods.
+
+Chapter 3: Exponential Smoothing
+
+Forecasts produced using exponential smoothing methods are weighted averages of past observations, with the weights decaying exponentially as the observations get older. In other words, the more recent the observation the higher the associated weight. This framework generates reliable forecasts quickly and for a wide range of time series, which is a great advantage and of major importance to applications in business. Exponential smoothing models are based on a description of the trend and seasonality in the data.
+
+Chapter 4: Forecasting with ARIMA Models
+
+ARIMA models provide another approach to time series forecasting. Exponential smoothing and ARIMA models are the two most widely-used approaches to time series forecasting, and provide complementary approaches to the problem. While exponential smoothing models are based on a description of the trend and seasonality in the data, ARIMA models aim to describe the autocorrelations in the data.
+
+Chapter 5: Advanced Methods
+
+The time series models in the previous chapters work well for many time series, but they are often not good for weekly or hourly data, and they do not allow for the inclusion of other information such as the effects of holidays, competitor activity, changes in the law, etc. In this chapter, you will look at some methods that handle more complicated seasonality, and you consider how to extend ARIMA models in order to allow other information to be included in the them.
+
+## Notes
+
+Cross-validation only works when you can write the model as an autoregression. So that rules out general ARIMA, TBATS, ETS, and so on. You should use tsCV instead which works for any time series model.
+
+## References
+
+https://robjhyndman.com/hyndsight/datacamp/

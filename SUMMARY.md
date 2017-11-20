@@ -26,9 +26,25 @@
 
 ## Collections
 
+* [Demonstrating data science abilities](collections/demonstrating-data-science-abilities.md)
+
+* [Forecasting using R](collections/forecasting-using-r.md)
+
 * [Investment data product](collections/investment-data-product.md)
 
+* [Journalling ideas](collections/journal-ideas.md)
+
+* [Looking for a data scientist](collections/looking-for-a-data-scientist.md)
+
+* [Neural networks: the next evolution of software?](collections/neural-networks-as-the-next-evolution-of-software.md)
+
+* [Next evolution of the software developer](collections/next-evolution-of-the-software-developer.md)
+
 * [OS Tips](collections/os-tips.md)
+
+* [Planning how I will achieve what I dream](collections/planning-how-i-will-achieve-what-i-dream.md)
+
+* [Project: H1B salary analysis](collections/project-h1b-salary-analysis.md)
 
 * [Sun Tzu quotes](collections/sun-tzu-quotes.md)
 
