@@ -57,7 +57,7 @@ Initiatives are the tangible concept of an idea for something that will help me 
 
 ## Process
 
-`Ideas -> Prospects (Later) -> Inception (Next) -> In Progress (Now) -> Done`
+`Ideas -> Prospects (Later) -> Inception (Next) -> Action (Now) -> Done`
 
 At *Prospects* onwards we should apply Kanban WIP limits to prevent trying to work on everything at the same time.
 
