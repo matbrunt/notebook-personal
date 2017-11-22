@@ -72,12 +72,17 @@
 
 - Statistics
 
+## Workflows
+
+* [Writing up articles as blog posts](workflows/writing-up-articles-as-blog-post.md)
+
 ## Journal
 
 ### November 2017
 
 #### Week 47
 
+* [Tue 21 Nov 2017](journal/2017-11/171120/journal-tue-171121.md)
 * [Mon 20 Nov 2017](journal/2017-11/171120/journal-mon-171120.md)
 
 #### Week 46
