@@ -38,4 +38,12 @@ It feels like I've been in purgatory, halfway between worlds. Trying to move fro
 
 ## Links
 
-https://medium.com/mlreview/our-nips-2017-learning-to-run-approach-b80a295d3bb5
+**CrowdAI: Learning to run competition**
+
+Reinforcement learning environments with musculoskeletal models
+
+Interesting commentary on feature engineering, and things to look out for when training a reinforcement model.
+
+[NIPS 2017 Learning to run competition page](https://www.crowdai.org/challenges/nips-2017-learning-to-run)
+
+[NIPS2017 Learning to run approach](https://medium.com/mlreview/our-nips-2017-learning-to-run-approach-b80a295d3bb5)
