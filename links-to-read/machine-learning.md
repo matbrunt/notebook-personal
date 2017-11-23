@@ -38,12 +38,6 @@
 
 [Machine Learning Flashcards](https://machinelearningflashcards.com/)
 
-[Understanding capsule networks - part 1](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
-
-[Understanding capsule networks - part 2](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
-
-[How to use capsule networks](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952)
-
 [Carlos Perez, writings on deep learning](https://medium.com/intuitionmachine)
 
 [Carlos Perez: The Deep Learning AI playbook](https://gumroad.com/l/WRbUs)
@@ -82,6 +76,16 @@
 [Linear algebra for deep learning - part 1](https://www.quantstart.com/articles/scalars-vectors-matrices-and-tensors-linear-algebra-for-deep-learning-part-1)
 
 [Technical debt in machine learning](https://medium.com/towards-data-science/technical-debt-in-machine-learning-8b0fae938657)
+
+## Capsule Networks
+
+[Understanding Hinton’s Capsule Networks. Part I: Intuition](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+
+[Understanding Hinton’s Capsule Networks. Part II: How Capsules Work](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
+
+[How to use capsule networks](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952)
+
+> Boris Mitrovic: Theoretically it’s a more sound approach. Given Hinton was unable to make it outperform standard CNNs in terms of performance (and especially runtime!) on large datasets I imagine it won’t be the algorithm to replace state of the art. But some similar algorithm which can capture spatial relationships will eventually (in terms of DL that’s about a year :wink: ) outperform CNNs by an order of magnitude imo.
 
 ## Machine Learning: The High-Interest Credit Card of Technical Debt
 
