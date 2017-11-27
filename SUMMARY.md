@@ -82,6 +82,8 @@
 
 #### Week 47
 
+* [Fri 24 Nov 2017](journal/2017-11/171120/journal-fri-171124.md)
+* [Thu 23 Nov 2017](journal/2017-11/171120/journal-thu-171123.md)
 * [Wed 22 Nov 2017](journal/2017-11/171120/journal-wed-171122.md)
 * [Tue 21 Nov 2017](journal/2017-11/171120/journal-tue-171121.md)
 * [Mon 20 Nov 2017](journal/2017-11/171120/journal-mon-171120.md)
