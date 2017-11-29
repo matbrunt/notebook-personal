@@ -82,6 +82,7 @@
 
 #### Week 48
 
+* [Tue 28 Nov 2017](journal/2017-11/171127/journal-tue-171128.md)
 * [Mon 27 Nov 2017](journal/2017-11/171127/journal-mon-171127.md)
 
 #### Week 47
