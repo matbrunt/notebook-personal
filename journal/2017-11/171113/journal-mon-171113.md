@@ -13,3 +13,9 @@
 [Time series model validation without a hold-out set](http://multithreaded.stitchfix.com/blog/2017/02/28/whats-wrong-with-my-time-series/)
 
 [Knex: A Node SQL query builder](http://knexjs.org/)
+
+### Authentication in Node with Json Web Tokens
+
+[5 steps to authenticating with jwt](https://www.codementor.io/olatundegaruba/5-steps-to-authenticating-node-js-with-jwt-7ahb5dmyr)
+
+[Securing Node restful APIs with JSON web tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52)
