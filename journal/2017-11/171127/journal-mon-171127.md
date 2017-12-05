@@ -23,7 +23,7 @@
 
 [egghead.io: Building React applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
-- [An Introduction to the Redux-First Routing Model]()
+- [An Introduction to the Redux-First Routing Model](https://medium.freecodecamp.org/an-introduction-to-the-redux-first-routing-model-98926ebf53cb)
   - nice introduction to modern browser history and location functionality
 
 [Getting started with create-react-app, Redux, React Router & Redux Thunk](https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f)

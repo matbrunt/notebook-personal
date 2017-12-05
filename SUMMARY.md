@@ -78,6 +78,12 @@
 
 ## Journal
 
+### December 2017
+
+#### Week 49
+
+* [Mon 04 Dec 2017](journal/2017-12/171204/journal-mon-171204.md)
+
 ### November 2017
 
 #### Week 48
