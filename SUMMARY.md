@@ -82,6 +82,7 @@
 
 #### Week 49
 
+* [Wed 06 Dec 2017](journal/2017-12/171204/journal-wed-171206.md)
 * [Tue 05 Dec 2017](journal/2017-12/171204/journal-tue-171205.md)
 * [Mon 04 Dec 2017](journal/2017-12/171204/journal-mon-171204.md)
 
