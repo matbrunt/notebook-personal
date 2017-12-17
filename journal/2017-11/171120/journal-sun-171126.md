@@ -13,8 +13,8 @@ Then I can concetrate on stock selection rather than building architecture and i
 It also allows me to get ideas of visualisations and areas to investigate for if I build my own tool.
 
 - [eoddata.com: Historical exchange prices](http://eoddata.com/products/HistoricalData.aspx)
-  - $50 LSE end of day data for last 10 years
-  - $25/month ongoing end of day data for LSE
+    - $50 LSE end of day data for last 10 years
+    - $25/month ongoing end of day data for LSE
 
 the correct form to calculate Pearson's correlation coefficient is between stock returns. So, first you'll need to calculate the daily returns of the stocks: Adj Close - Previous Day Adj Close.﻿
 
@@ -33,4 +33,4 @@ the correct form to calculate Pearson's correlation coefficient is between stock
 [LSE: FeverTree company fundamentals](http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary/GB00BRJ9BJ26GBGBXAMSM.html)
 
 - [Hacker news: discussion on algorithmic trading](https://news.ycombinator.com/item?id=12160297)
-  - good discussion with points to note, pros + cons
+    - good discussion with points to note, pros + cons

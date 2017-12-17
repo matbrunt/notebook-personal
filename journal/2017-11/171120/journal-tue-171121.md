@@ -27,10 +27,10 @@
 [OpenAI: Better exploration with parameter noise](https://blog.openai.com/better-exploration-with-parameter-noise/)
 
 - [FastAI: What you need to do deep learning](http://www.fast.ai/2017/11/16/what-you-need/)
-  - read this properly and turn into an article write up
+    - read this properly and turn into an article write up
 
 - [FastAI: Introducing PyTorch for FastAI](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
-  - write up, calling out the different course intents and advantages of dynamic execution
+    - write up, calling out the different course intents and advantages of dynamic execution
 
 [Airbnb: Architecting a machine learning system for risk](https://medium.com/airbnb-engineering/architecting-a-machine-learning-system-for-risk-941abbba5a60)
 
@@ -55,7 +55,7 @@
 [How Superset and Druid power real time analytics at Airbnb (video)](https://www.youtube.com/watch?v=W_Sp4jo1ACg)
 
 - [Superset: an open source data exploration platform (video)](https://www.youtube.com/watch?v=NC9ehDUUu2o)
-  - really nice product walkthrough by its creator
+    - really nice product walkthrough by its creator
 
 [Superset: source code on Github](https://github.com/apache/incubator-superset)
 
@@ -64,7 +64,7 @@
 #### Ethics
 
 - [FastAI: When data science destabilises democracy and facilitates genocide](http://www.fast.ai/2017/11/02/ethics/)
-  - Fantastic write up providing numerous examples where unthinkingly optimising a metric has tangible real world implications.
+    - Fantastic write up providing numerous examples where unthinkingly optimising a metric has tangible real world implications.
 
 *Unethical algorithms used to determine sentencing*
 

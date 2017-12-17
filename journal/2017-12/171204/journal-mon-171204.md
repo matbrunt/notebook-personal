@@ -13,8 +13,8 @@ Dask is very good at reading large csvs, or csvs spread across a lot of files, a
 ### Software Engineering
 
 - [Docker inspect template magic](http://container-solutions.com/docker-inspect-template-magic/)
-  - `format` takes Go templates
-  - useful introduction to the template logic that can be used
+    - `format` takes Go templates
+    - useful introduction to the template logic that can be used
 
 [DeepMind papers at NIPS 2017](https://deepmind.com/blog/deepmind-papers-nips-2017/)
 

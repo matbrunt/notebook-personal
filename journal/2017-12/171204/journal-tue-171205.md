@@ -31,7 +31,7 @@ You can wrap your class with `:global` to switch to the global scope (this mean 
 ### Software Engineering
 
 - [CSS modules by example](https://www.andrewhfarmer.com/css-modules-by-example/)
-  - examples with code of how to use CSS modules in your project
+    - examples with code of how to use CSS modules in your project
 
 - [Martin Kleppmann blog: distributed data systems](https://martin.kleppmann.com/)
-  - Also author of 'Designing Data-Intensive Applications' (recommended by colleagues)
+    - Also author of 'Designing Data-Intensive Applications' (recommended by colleagues)

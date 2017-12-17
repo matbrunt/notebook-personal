@@ -5,7 +5,7 @@
 - [Flight animation with D3.js](http://www.tnoda.com/blog/2014-04-02)
 
 - ![Journey path reveals on hover over](http://eng.uber.com/wp-content/uploads/2016/05/blog_arcs.gif)
-  - use this to visualise routes from airports, drawn over a regional (Europe) or global map
+    - use this to visualise routes from airports, drawn over a regional (Europe) or global map
 
 ### Druid
 

@@ -8,7 +8,7 @@
  - a collection of machine learning problems and solutions
 
 - [Kaggle: Introduction to neural networks](http://blog.kaggle.com/2017/11/27/introduction-to-neural-networks/)
-  - [Part 2: Neural networks - a worked example](https://gormanalysis.com/neural-networks-a-worked-example/)
+    - [Part 2: Neural networks - a worked example](https://gormanalysis.com/neural-networks-a-worked-example/)
 
 - [AWS AI services announced at AWS ReInvent 2017](https://aws.amazon.com/blogs/aws/category/artificial-intelligence/)
 - https://aws.amazon.com/blogs/aws/amazon-transcribe-scalable-and-accurate-automatic-speech-recognition/
@@ -28,10 +28,10 @@
 ### Data Analysis
 
 - [Big data vs Hayek](https://www.forbes.com/sites/modeledbehavior/2015/06/28/big-data-versus-hayek/#54dd17744e70)
-  - uber uses central algorithms to set prices, rather than letting drivers set prices
-  - airbnb does not, instead providing ratings and informational systems to help buyers and sellers overcome informational asymmetries
-  - in some places centralised algorithms are replacing decentralised knowledge and decision making
-  - but the markets are evolving as well
+    - uber uses central algorithms to set prices, rather than letting drivers set prices
+    - airbnb does not, instead providing ratings and informational systems to help buyers and sellers overcome informational asymmetries
+    - in some places centralised algorithms are replacing decentralised knowledge and decision making
+    - but the markets are evolving as well
 
 [Most Common Cognitive Biases Visualised & Explained](https://blog.usejournal.com/most-common-cognitive-biases-visualised-explained-ad94574f8054)
 
@@ -42,7 +42,7 @@
 - [ArXiv: Good enough practices in scientific computing (pdf)](https://arxiv.org/pdf/1609.00037.pdf)
 
 - [Data science workflow: Overview and challenges](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
-  - [Philip Guo dissertation (pdf)](http://pgbovine.net/projects/pubs/guo_phd_dissertation.pdf) (especially ch2+3) is interesting as well
+    - [Philip Guo dissertation (pdf)](http://pgbovine.net/projects/pubs/guo_phd_dissertation.pdf) (especially ch2+3) is interesting as well
 
 [Using data science to explore software development](https://www.datacamp.com/community/blog/data-science-software-engineering)
 
@@ -51,6 +51,6 @@
 [Masters of Money: Friedrich Hayek](http://www.bbc.co.uk/news/business-19706272)
 
 - [Power in the age of the feudal internet](https://blog.usejournal.com/power-in-the-age-of-the-feudal-internet-20e106a2e2ce)
-  - the vision of a free and open internet has been replaced by government firewalls, Internet Service Provider surveillance, and corporate data harvesting
-  - Each new form of media — the telegraph, telephone, radio, film, and television — was born free and open but later evolved into a closed and controlled industry or monopoly.
-  - [Bruce Schnier: feudal internet](https://web.archive.org/web/20170618222637/http://en.collaboratory.de/w/Power_in_the_Age_of_the_Feudal_Internet)
+    - the vision of a free and open internet has been replaced by government firewalls, Internet Service Provider surveillance, and corporate data harvesting
+    - Each new form of media — the telegraph, telephone, radio, film, and television — was born free and open but later evolved into a closed and controlled industry or monopoly.
+    - [Bruce Schnier: feudal internet](https://web.archive.org/web/20170618222637/http://en.collaboratory.de/w/Power_in_the_Age_of_the_Feudal_Internet)

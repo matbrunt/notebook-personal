@@ -43,7 +43,7 @@ Initiatives are the tangible concept of an idea for something that will help me 
 - They have a very explicit definition of what DONE looks like so I know when they are completed
 
 - Each initiative will be S.M.A.R.T. so weekly progress and impact can be assessed
-  - the measures themselves are not the goal (leading indicators rather than lagging)
+    - the measures themselves are not the goal (leading indicators rather than lagging)
 
 - Initiatives should be created to form alignment towards goals and prioritise work towards the highest value objectives
 
@@ -66,8 +66,8 @@ At *Prospects* onwards we should apply Kanban WIP limits to prevent trying to wo
 - Every initiative starts life as an "idea".
 
 - At this stage, it is little more than a heading and a paragraph describing:
-  - what the expected impact would be
-  - how it aligns to my goals
+    - what the expected impact would be
+    - how it aligns to my goals
 
 ### Prospects
 
@@ -88,10 +88,10 @@ At *Prospects* onwards we should apply Kanban WIP limits to prevent trying to wo
 - Time box the inception phase (1 week?) and set it as an explicit target to mark as completed
 
 - Produce the following outputs as deliverables:
-  - single page write up describing the impact this initiative will have, and how to measure when the work is done
-  - steps to achieve the idea, with enough detail to measure progress against the overall idea deliverable
-  - for technical projects this will consider the implementation in enough detail to determine if it is achievable and what approach to take
-  - the first two time boxed goals; detailing the period they are expected to take, the assumptions that will be tested and what impact these will have
+    - single page write up describing the impact this initiative will have, and how to measure when the work is done
+    - steps to achieve the idea, with enough detail to measure progress against the overall idea deliverable
+    - for technical projects this will consider the implementation in enough detail to determine if it is achievable and what approach to take
+    - the first two time boxed goals; detailing the period they are expected to take, the assumptions that will be tested and what impact these will have
 
 - At this point, make a Commit/Drop decision whether to take the time to commit to completing this initiative
 

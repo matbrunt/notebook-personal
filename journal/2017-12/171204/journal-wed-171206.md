@@ -3,7 +3,7 @@
 ## Links
 
 - [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
-  - AlphaGo team present new algorithm that learns to play chess at superhuman level in 24 hours
+    - AlphaGo team present new algorithm that learns to play chess at superhuman level in 24 hours
 
 ### Software Engineering
 

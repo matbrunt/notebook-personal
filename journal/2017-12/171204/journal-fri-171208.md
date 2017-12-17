@@ -13,14 +13,14 @@
 ### Data Analysis
 
 - [Netflix non-personalised explore/exploit: selecting best video artwork through a/b testing](https://medium.com/netflix-techblog/selecting-the-best-artwork-for-videos-through-a-b-testing-f6155c4595f6)
-  - the specific problem they are tackling is what image to show for a film (to promote engagement) in what "cell" of the layout.
+    - the specific problem they are tackling is what image to show for a film (to promote engagement) in what "cell" of the layout.
 
 - [Netflix artwork personalisation](https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76)
-  - using *contextual bandits* for personalisation, i.e. they learn what image works for each user
+    - using *contextual bandits* for personalisation, i.e. they learn what image works for each user
 
 ### Machine Learning
 
 - [kubeflow - Machine Learning Toolkit for Kubernetes](https://github.com/google/kubeflow)
 
 - ["The Trouble with Bias" by Kate Crawford, NIPS2017 keynote](https://www.facebook.com/nipsfoundation/videos/1553500344741199/)
-  - Kate Crawford recommended by Neal Lathia
+    - Kate Crawford recommended by Neal Lathia
