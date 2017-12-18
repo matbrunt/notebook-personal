@@ -80,6 +80,10 @@
 
 ### December 2017
 
+#### Week 51
+
+* [Mon 18 Dec 2017](journal/2017-12/171218/journal-mon-171218.md)
+
 #### Week 50
 
 * [Fri 15 Dec 2017](journal/2017-12/171211/journal-fri-171215.md)
