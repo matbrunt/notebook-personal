@@ -34,6 +34,8 @@
 
 * [Journalling ideas](collections/journal-ideas.md)
 
+* [Learning Material](collections/learning-material.md)
+
 * [Looking for a data scientist](collections/looking-for-a-data-scientist.md)
 
 * [Neural networks: the next evolution of software?](collections/neural-networks-as-the-next-evolution-of-software.md)
