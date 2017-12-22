@@ -26,7 +26,73 @@ Learn how to build a model to automatically classify items in a school budget.
 https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets
 4 hours
 
+*Extreme Gradient Boosting with XGBoost*
+Learn the fundamentals of gradient boosting and build machine learning models using XGBoost
+https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost
+4 hours
+
+*Introduction to PySpark*
+Learn to implement distributed data management and machine learning in Spark using PySpark.
+https://www.datacamp.com/courses/introduction-to-pyspark
+4 hours
+
+*Case Studies in Statistical Thinking*
+Apply statistical thinking skills to real-world data sets and extract
+- requires Statistical Thinking I and II
+https://www.datacamp.com/courses/case-studies-in-statistical-thinking
+4 hours
+
 ### R
+
+*Cleaning Data in R*
+Learn to explore your data so you can properly clean and prepare it for analysis.
+https://www.datacamp.com/courses/cleaning-data-in-r
+4 hours
+
+*Importing & Cleaning Data in R: Case Studies*
+Four case studies that revisit key concepts from the 'Importing and Cleaning Data in R' courses.
+https://www.datacamp.com/courses/importing-cleaning-data-in-r-case-studies
+4 hours
+
+*Correlation and Regression*
+Learn how to describe relationships between two numerical quantities and characterise these relationships graphically.
+https://www.datacamp.com/courses/correlation-and-regression
+4 hours
+
+*Data Manipulation in R with dplyr*
+Master techniques for data manipulation using the select, mutate, filter, arrange and summarise functions in dplyr.
+https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial
+4 hours
+
+*Machine Learning Toolbox*
+Teaches the big ideas in machine learning like how to build and evaluate predictive models.
+https://www.datacamp.com/courses/machine-learning-toolbox
+4 hours
+
+*Foundations of Inference*
+Learn how to draw conclusions about a population from a sample of data via a process known as statistical inference.
+https://www.datacamp.com/courses/foundations-of-inference
+4 hours
+
+*Inference for Numerical Data*
+Learn techniques for performing statistical inference on numerical data.
+https://www.datacamp.com/courses/inference-for-numerical-data
+4 hours
+
+*Inference for Linear Regression*
+Learn how to perform inference using linear models.
+https://www.datacamp.com/courses/inference-for-linear-regression
+4 hours
+
+*Statistical Modeling in R (Part 1)*
+Get up to speed with the most important and powerful methodologies in statistics.
+https://www.datacamp.com/courses/statistical-modeling-in-r-part-1
+4 hours
+
+*Foundations of Probability in R*
+Learn about the concepts of random variables, distributions, and conditioning.
+https://www.datacamp.com/courses/foundations-of-probability-in-r
+4 hours
 
 *Introduction to R for Finance*
 Learn essential data structures such as lists and data frames, and apply that knowledge directly to financial examples.
@@ -43,6 +109,16 @@ The xts and zoo packages make the task of managing and manipulating ordered obse
 https://www.datacamp.com/courses/manipulating-time-series-data-in-r-with-xts-zoo
 4 hours
 **unsure**
+
+*Writing Efficient R Code*
+Learn to write faster R code, discover benchmarking and profiling, and unlock the secrets of parallel programming.
+https://www.datacamp.com/courses/writing-efficient-r-code
+4 hours
+
+*Working with Geospatial Data in R*
+Learn to read, explore and manipulate spatial data to create informative maps using R.
+https://www.datacamp.com/courses/working-with-geospatial-data-in-r
+4 hours
 
 *Importing and Managing Financial Data in R*
 Learn how to access financial data from local files as well as from internet sources.
@@ -86,13 +162,18 @@ Advance your finance and R skills to backtest, analyse, and optimise financial p
 https://www.datacamp.com/courses/intermediate-portfolio-analysis-in-r
 5 hours
 
+*Equity Valuation in R*
+Learn the fundamentals of valuing stocks.
+https://www.datacamp.com/courses/equity-valuation-in-r
+4 hours
+
 *Bond Valuation and Analysis in R*
 Learn to use R to develop models to evaluate and analyse bonds as well as protect them from interest rate changes.
 https://www.datacamp.com/courses/bond-valuation-and-analysis-in-r
 4 hours
 
 *Credit Risk Modeling in R*
-Apply statistical nmodeling in a real-life setting using logistic regression and decision trees to model credit risk.
+Apply statistical modeling in a real-life setting using logistic regression and decision trees to model credit risk.
 https://www.datacamp.com/courses/introduction-to-credit-risk-modeling-in-r
 4 hours
 
