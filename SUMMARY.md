@@ -80,6 +80,12 @@
 
 ## Journal
 
+### January 2018
+
+#### Week 01
+
+* [Wed 03 Jan 2018](journal/2018-01/180101/journal-wed-180103.md)
+
 ### December 2017
 
 #### Week 51
