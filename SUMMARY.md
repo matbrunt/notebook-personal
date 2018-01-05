@@ -84,6 +84,7 @@
 
 #### Week 01
 
+* [Fri 05 Jan 2018](journal/2018-01/180101/journal-fri-180105.md)
 * [Thu 04 Jan 2018](journal/2018-01/180101/journal-thu-180104.md)
 * [Wed 03 Jan 2018](journal/2018-01/180101/journal-wed-180103.md)
 
