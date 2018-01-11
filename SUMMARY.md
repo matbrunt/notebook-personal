@@ -48,6 +48,8 @@
 
 * [Project: H1B salary analysis](collections/project-h1b-salary-analysis.md)
 
+* [Rental analysis](collections/rental-analysis.md)
+
 * [RightMove page structure](collections/rightmove-page-structure.md)
 
 * [Sun Tzu quotes](collections/sun-tzu-quotes.md)
