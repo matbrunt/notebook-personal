@@ -84,6 +84,7 @@
 
 #### Week 03
 
+* [Tue 16 Jan 2018](journal/2018-01/180115/journal-tue-180116.md)
 * [Mon 15 Jan 2018](journal/2018-01/180115/journal-mon-180115.md)
 
 #### Week 02
