@@ -1,6 +1,15 @@
 # Wed 17 Jan 2018
 
 [] Have a look at Kaggle housing datasets, maybe Zoopla, or Boston house prices?
+    - scikit-learn has one built in for Boston house prices
+
+[scikit-learn Boston house prices](https://archive.ics.uci.edu/ml/datasets/housing)
+
+```python
+from sklearn import datasets
+data = datasets.load_boston()
+print(data.DESCR) # prints data description (only works on scikit learn datasets)
+```
 
 ## Links
 
