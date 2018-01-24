@@ -84,6 +84,7 @@
 
 #### Week 04
 
+* [Tue 23 Jan 2018](journal/2018-01/180122/journal-tue-180123.md)
 * [Mon 22 Jan 2018](journal/2018-01/180122/journal-mon-180122.md)
 
 #### Week 03
