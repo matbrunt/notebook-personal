@@ -84,6 +84,7 @@
 
 #### Week 04
 
+* [Fri 26 Jan 2018](journal/2018-01/180122/journal-fri-180126.md)
 * [Thu 25 Jan 2018](journal/2018-01/180122/journal-thu-180125.md)
 * [Wed 24 Jan 2018](journal/2018-01/180122/journal-wed-180124.md)
 * [Tue 23 Jan 2018](journal/2018-01/180122/journal-tue-180123.md)
