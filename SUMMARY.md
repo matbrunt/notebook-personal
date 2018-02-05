@@ -80,9 +80,11 @@
 
 ## Journal
 
-### January 2018
+### 2018-06
 
-#### Week 05
+* [Mon 05 Feb 2018](journal/2018-02/180205/journal-mon-180205.md)
+
+### 2018-05
 
 * [Fri 02 Feb 2018](journal/2018-01/180129/journal-fri-180202.md)
 * [Thu 01 Feb 2018](journal/2018-01/180129/journal-thu-180201.md)
@@ -90,7 +92,7 @@
 * [Tue 30 Jan 2018](journal/2018-01/180129/journal-tue-180130.md)
 * [Mon 29 Jan 2018](journal/2018-01/180129/journal-mon-180129.md)
 
-#### Week 04
+### 2018-04
 
 * [Fri 26 Jan 2018](journal/2018-01/180122/journal-fri-180126.md)
 * [Thu 25 Jan 2018](journal/2018-01/180122/journal-thu-180125.md)
@@ -98,50 +100,46 @@
 * [Tue 23 Jan 2018](journal/2018-01/180122/journal-tue-180123.md)
 * [Mon 22 Jan 2018](journal/2018-01/180122/journal-mon-180122.md)
 
-#### Week 03
+### 2018-03
 
 * [Thu 18 Jan 2018](journal/2018-01/180115/journal-thu-180118.md)
 * [Wed 17 Jan 2018](journal/2018-01/180115/journal-wed-180117.md)
 * [Tue 16 Jan 2018](journal/2018-01/180115/journal-tue-180116.md)
 * [Mon 15 Jan 2018](journal/2018-01/180115/journal-mon-180115.md)
 
-#### Week 02
+### 2018-02
 
 * [Fri 12 Jan 2018](journal/2018-01/180108/journal-fri-180112.md)
 * [Thu 11 Jan 2018](journal/2018-01/180108/journal-thu-180111.md)
 * [Wed 10 Jan 2018](journal/2018-01/180108/journal-wed-180110.md)
 * [Tue 09 Jan 2018](journal/2018-01/180108/journal-tue-180109.md)
 
-#### Week 01
+### 2018-01
 
 * [Fri 05 Jan 2018](journal/2018-01/180101/journal-fri-180105.md)
 * [Thu 04 Jan 2018](journal/2018-01/180101/journal-thu-180104.md)
 * [Wed 03 Jan 2018](journal/2018-01/180101/journal-wed-180103.md)
 
-### December 2017
-
-#### Week 51
+### 2017-51
 
 * [Fri 22 Dec 2017](journal/2017-12/171218/journal-fri-171222.md)
 * [Thu 21 Dec 2017](journal/2017-12/171218/journal-thu-171221.md)
 * [Wed 20 Dec 2017](journal/2017-12/171218/journal-wed-171220.md)
 * [Mon 18 Dec 2017](journal/2017-12/171218/journal-mon-171218.md)
 
-#### Week 50
+### 2017-50
 
 * [Fri 15 Dec 2017](journal/2017-12/171211/journal-fri-171215.md)
 * [Wed 13 Dec 2017](journal/2017-12/171211/journal-wed-171213.md)
 
-#### Week 49
+### 2017-49
 
 * [Fri 08 Dec 2017](journal/2017-12/171204/journal-fri-171208.md)
 * [Wed 06 Dec 2017](journal/2017-12/171204/journal-wed-171206.md)
 * [Tue 05 Dec 2017](journal/2017-12/171204/journal-tue-171205.md)
 * [Mon 04 Dec 2017](journal/2017-12/171204/journal-mon-171204.md)
 
-### November 2017
-
-#### Week 48
+### 2017-48
 
 * [Fri 01 Dec 2017](journal/2017-11/171127/journal-fri-171201.md)
 * [Thu 30 Nov 2017](journal/2017-11/171127/journal-thu-171130.md)
@@ -149,7 +147,7 @@
 * [Tue 28 Nov 2017](journal/2017-11/171127/journal-tue-171128.md)
 * [Mon 27 Nov 2017](journal/2017-11/171127/journal-mon-171127.md)
 
-#### Week 47
+### 2017-47
 
 * [Sun 26 Nov 2017](journal/2017-11/171120/journal-sun-171126.md)
 * [Sat 25 Nov 2017](journal/2017-11/171120/journal-sat-171125.md)
@@ -159,7 +157,7 @@
 * [Tue 21 Nov 2017](journal/2017-11/171120/journal-tue-171121.md)
 * [Mon 20 Nov 2017](journal/2017-11/171120/journal-mon-171120.md)
 
-#### Week 46
+### 2017-46
 
 * [Sun 19 Nov 2017](journal/2017-11/171113/journal-sun-171119.md)
 * [Sat 18 Nov 2017](journal/2017-11/171113/journal-sat-171118.md)
@@ -169,44 +167,40 @@
 * [Tue 14 Nov 2017](journal/2017-11/171113/journal-tue-171114.md)
 * [Mon 13 Nov 2017](journal/2017-11/171113/journal-mon-171113.md)
 
-#### Week 45
+### 2017-45
 
 * [Fri 10 Nov 2017](journal/2017-11/171106/journal-fri-171110.md)
 * [Thu 09 Nov 2017](journal/2017-11/171106/journal-thu-171109.md)
 * [Wed 08 Nov 2017](journal/2017-11/171106/journal-wed-171108.md)
 
-### October 2017
-
-#### Week 44
+### 2017-44
 
 * [Fri 03 Nov 2017](journal/2017-10/171030/journal-fri-171103.md)
 * [Wed 01 Nov 2017](journal/2017-10/171030/journal-wed-171101.md)
 * [Tue 31 Oct 2017](journal/2017-10/171030/journal-tue-171031.md)
 
-#### Week 43
+### 2017-43
 
 * [Fri 27 Oct 2017](journal/2017-10/171023/journal-fri-171027.md)
 * [Thu 26 Oct 2017](journal/2017-10/171023/journal-thu-171026.md)
 * [Wed 25 Oct 2017](journal/2017-10/171023/journal-wed-171025.md)
 * [Mon 23 Oct 2017](journal/2017-10/171023/journal-mon-171023.md)
 
-#### Week 42
+### 2017-42
 
 * [Tue 17 Oct 2017](journal/2017-10/171016/journal-tue-171017.md)
 * [Mon 16 Oct 2017](journal/2017-10/171016/journal-mon-171016.md)
 
-#### Week 41
+### 2017-41
 
 * [Wed 11 Oct 2017](journal/2017-10/171009/journal-wed-171011.md)
 * [Tue 10 Oct 2017](journal/2017-10/171009/journal-tue-171010.md)
 
-#### Week 40
+### 2017-40
 
 * [Mon 02 Oct 2017](journal/2017-10/171002/journal-mon-171002.md)
 
-### September 2017
-
-#### Week 39
+### 2017-39
 
 * [Thu 28 Sep 2017](journal/2017-09/170925/journal-thu-170928.md)
 * [Wed 27 Sep 2017](journal/2017-09/170925/journal-wed-170927.md)
