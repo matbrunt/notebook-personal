@@ -84,6 +84,7 @@
 
 #### Week 05
 
+* [Fri 02 Feb 2018](journal/2018-01/180129/journal-fri-180202.md)
 * [Thu 01 Feb 2018](journal/2018-01/180129/journal-thu-180201.md)
 * [Wed 31 Jan 2018](journal/2018-01/180129/journal-wed-180131.md)
 * [Tue 30 Jan 2018](journal/2018-01/180129/journal-tue-180130.md)
