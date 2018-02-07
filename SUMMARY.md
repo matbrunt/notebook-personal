@@ -82,6 +82,7 @@
 
 ### 2018-06
 
+* [Wed 07 Feb 2018](journal/2018-02/180205/journal-wed-180207.md)
 * [Mon 05 Feb 2018](journal/2018-02/180205/journal-mon-180205.md)
 
 ### 2018-05
