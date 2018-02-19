@@ -80,6 +80,10 @@
 
 ## Journal
 
+### 2018-08
+
+* [Mon 19 Feb 2018](journal/2018-02/180219/journal-180219-mon.md)
+
 ### 2018-07
 
 * [Fri 16 Feb 2018](journal/2018-02/180212/journal-180216-fri.md)
