@@ -82,6 +82,7 @@
 
 ### 2018-08
 
+* [Fri 23 Feb 2018](journal/2018-02/180219/journal-180223-fri.md)
 * [Wed 21 Feb 2018](journal/2018-02/180219/journal-180221-wed.md)
 * [Mon 19 Feb 2018](journal/2018-02/180219/journal-180219-mon.md)
 
