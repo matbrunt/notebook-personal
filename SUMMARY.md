@@ -86,16 +86,20 @@
 
 ## Journal
 
+### 2018 Week 12
+
+* [Mon 19 Mar 2018](journal/2018-03/180319/journal-180319-mon.md)
+
 ### 2018 Week 11
 
-* [Fri 16 Mar 2018](journal/2018-02/180312/journal-180316-fri.md)
-* [Wed 14 Mar 2018](journal/2018-02/180312/journal-180314-wed.md)
-* [Mon 12 Mar 2018](journal/2018-02/180312/journal-180312-mon.md)
+* [Fri 16 Mar 2018](journal/2018-03/180312/journal-180316-fri.md)
+* [Wed 14 Mar 2018](journal/2018-03/180312/journal-180314-wed.md)
+* [Mon 12 Mar 2018](journal/2018-03/180312/journal-180312-mon.md)
 
 ### 2018 Week 10
 
-* [Fri 09 Mar 2018](journal/2018-02/180305/journal-180309-fri.md)
-* [Thu 08 Mar 2018](journal/2018-02/180305/journal-180308-thu.md)
+* [Fri 09 Mar 2018](journal/2018-03/180305/journal-180309-fri.md)
+* [Thu 08 Mar 2018](journal/2018-03/180305/journal-180308-thu.md)
 
 ### 2018 Week 09
 
