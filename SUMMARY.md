@@ -28,6 +28,8 @@
 
 ## Collections
 
+* [Air Passenger Data](collections/air-passenger-data.md)
+
 * [Consumer Rights Act 2015: Late deliveries](collections/consumer-rights-act-late-deliveries.md)
 
 * [Demonstrating data science abilities](collections/demonstrating-data-science-abilities.md)
