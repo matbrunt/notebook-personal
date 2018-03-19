@@ -1,6 +1,6 @@
 # Learning to run
 
-NIP 2017 "Learning to run" OpenAI competition.
+NIPS 2017 "Learning to run" OpenAI competition.
 
 https://medium.com/mlreview/our-nips-2017-learning-to-run-approach-b80a295d3bb5
 
