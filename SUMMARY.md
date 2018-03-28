@@ -88,6 +88,7 @@
 
 ### 2018 Week 13
 
+* [Wed 28 Mar 2018](journal/2018-03/180326/journal-180328-wed.md)
 * [Tue 27 Mar 2018](journal/2018-03/180326/journal-180327-tue.md)
 * [Mon 26 Mar 2018](journal/2018-03/180326/journal-180326-mon.md)
 
