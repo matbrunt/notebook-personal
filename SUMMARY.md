@@ -88,6 +88,7 @@
 
 ### 2018 Week 12
 
+* [Fri 23 Mar 2018](journal/2018-03/180319/journal-180323-fri.md)
 * [Thu 22 Mar 2018](journal/2018-03/180319/journal-180322-thu.md)
 * [Wed 21 Mar 2018](journal/2018-03/180319/journal-180321-wed.md)
 * [Tue 20 Mar 2018](journal/2018-03/180319/journal-180320-tue.md)
