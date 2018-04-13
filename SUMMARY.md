@@ -86,8 +86,22 @@
 
 ## Journal
 
+### 2018 Week 15
+
+* [Thu 12 Apr 2018](journal/2018-04/180409/journal-180412-thu.md)
+* [Wed 11 Apr 2018](journal/2018-04/180409/journal-180411-wed.md)
+* [Tue 10 Apr 2018](journal/2018-04/180409/journal-180410-tue.md)
+* [Mon 09 Apr 2018](journal/2018-04/180409/journal-180409-mon.md)
+
+### 2018 Week 14
+
+* [Fri 05 Apr 2018](journal/2018-04/180402/journal-180406-fri.md)
+* [Thu 04 Apr 2018](journal/2018-04/180402/journal-180405-thu.md)
+
 ### 2018 Week 13
 
+* [Fri 30 Mar 2018](journal/2018-03/180326/journal-180330-fri.md)
+* [Thu 29 Mar 2018](journal/2018-03/180326/journal-180329-thu.md)
 * [Wed 28 Mar 2018](journal/2018-03/180326/journal-180328-wed.md)
 * [Tue 27 Mar 2018](journal/2018-03/180326/journal-180327-tue.md)
 * [Mon 26 Mar 2018](journal/2018-03/180326/journal-180326-mon.md)
