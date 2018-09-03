@@ -86,6 +86,10 @@
 
 ## Journal
 
+### 2018 Week 16
+
+* [Mon 16 Apr 2018](journal/2018-04/180416/journal-180416-mon.md)
+
 ### 2018 Week 15
 
 * [Thu 12 Apr 2018](journal/2018-04/180409/journal-180412-thu.md)
